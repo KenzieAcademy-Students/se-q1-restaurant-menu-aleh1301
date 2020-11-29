@@ -46,7 +46,11 @@ dd {margin: 0 0 12px 0; display: flex;}
 .price {
     color: firebrick;
     order: 2; 
-    padding-left: 10px;}
+    padding-left: 10px;
+    font-size: large;
+
+}
+    
 
 /* Draw a 2px dashed rosybrown border around the address/footer */
 address {
